@@ -16,4 +16,4 @@ UI Design Final Project
    python<your_version_of_python> server.py
 3. Open the website at the given port outputted by Flask:
    ```sh
-   In my case, it's usually at: http://127.0.0.1:5000/ 
+   In my case, its usually at: 'http://127.0.0.1:5000/'
